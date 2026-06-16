@@ -1,0 +1,26 @@
+check,feature,train_value,current_value,status
+missing_percent,city,0.0,0.0,OK
+missing_percent,latitude,0.0,0.0,OK
+missing_percent,longitude,0.0,0.0,OK
+missing_percent,rating,7.32,5.05,OK
+missing_percent,reviews,7.32,5.05,OK
+missing_percent,bedrooms,9.85,15.15,OK
+missing_percent,bathrooms,16.41,17.17,OK
+missing_percent,beds,0.0,0.0,OK
+missing_percent,guest_capacity,11.36,12.12,OK
+missing_percent,is_superhost,0.0,0.0,OK
+missing_percent,host_rating,0.76,1.01,OK
+missing_percent,amenities_count,0.0,0.0,OK
+missing_percent,has_wifi,0.0,0.0,OK
+missing_percent,has_kitchen,0.0,0.0,OK
+missing_percent,has_ac,0.0,0.0,OK
+missing_percent,has_parking,0.0,0.0,OK
+missing_percent,has_washer,0.0,0.0,OK
+missing_percent,has_tv,0.0,0.0,OK
+missing_percent,has_pool,0.0,0.0,OK
+missing_percent,has_workspace,0.0,0.0,OK
+missing_percent,description_length,0.0,0.0,OK
+missing_percent,title_length,0.0,0.0,OK
+missing_percent,property_type_inferred,0.0,0.0,OK
+prediction_mae,target_price,,54.46,OK
+prediction_range,predicted_price,47.00 to 631.00,76.19 to 401.70,OK

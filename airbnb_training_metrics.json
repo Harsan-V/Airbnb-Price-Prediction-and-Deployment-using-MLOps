@@ -1,0 +1,34 @@
+{
+  "best_model": "Ridge Regression",
+  "rows_used": 495,
+  "train_rows": 396,
+  "test_rows": 99,
+  "metrics": {
+    "Ridge Regression": {
+      "train_r2": 0.5331079019417401,
+      "test_r2": 0.34936942050164366,
+      "train_mae": 59.77508501439947,
+      "test_mae": 54.45927270845408,
+      "train_rmse": 82.33477384370686,
+      "test_rmse": 75.55227665238601,
+      "overfit_gap_r2": 0.1837384814400964,
+      "cv_mae_mean": 64.85994360611375,
+      "cv_mae_std": 6.6912949160132875,
+      "fit_status": "Acceptable"
+    },
+    "Random Forest": {
+      "train_r2": 0.7669869611411672,
+      "test_r2": 0.30052849032740814,
+      "train_mae": 40.980884771399225,
+      "test_mae": 55.83996910893263,
+      "train_rmse": 58.16545730767738,
+      "test_rmse": 78.33671126178317,
+      "overfit_gap_r2": 0.466458470813759,
+      "cv_mae_mean": 61.105866139273886,
+      "cv_mae_std": 3.6296868976460885,
+      "fit_status": "Likely overfitting"
+    }
+  },
+  "model_path": "airbnb_price_prediction_model.joblib",
+  "monitoring_path": "airbnb_monitoring_report.csv"
+}

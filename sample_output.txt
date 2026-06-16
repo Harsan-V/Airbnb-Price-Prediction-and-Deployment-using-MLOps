@@ -1,0 +1,54 @@
+{
+  "city": "Mumbai",
+  "latitude": 19.0760,
+  "longitude": 72.8777,
+  "rating": 5,
+  "reviews": 500,
+  "bedrooms": 0,
+  "bathrooms": 1,
+  "beds": 1,
+  "guest_capacity": 6,
+  "is_superhost": true,
+  "host_rating": 5,
+  "amenities_count": 100,
+  "has_wifi": true,
+  "has_kitchen": true,
+  "has_ac": true,
+  "has_parking": true,
+  "has_washer": true,
+  "has_tv": true,
+  "has_pool": true,
+  "has_workspace": true,
+  "description_length": 6000,
+  "title_length": 200,
+  "property_type_inferred": "Apartment"
+}
+
+
+
+
+{
+  "city": "Hyderabad",
+  "latitude": 17.3850,
+  "longitude": 78.4867,
+  "rating": 4.1,
+  "reviews": 18,
+  "bedrooms": 1,
+  "bathrooms": 1,
+  "beds": 1,
+  "guest_capacity": 2,
+  "is_superhost": false,
+  "host_rating": 4.2,
+  "amenities_count": 8,
+  "has_wifi": true,
+  "has_kitchen": false,
+  "has_ac": true,
+  "has_parking": false,
+  "has_washer": false,
+  "has_tv": true,
+  "has_pool": false,
+  "has_workspace": false,
+  "description_length": 180,
+  "title_length": 28,
+  "property_type_inferred": "Room"
+}
